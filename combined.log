@@ -1,51 +1,27 @@
+{"level":"info","message":"Parameters 20 and undefined received for division","service":"calculator-service"}
+{"level":"error","message":"n2 cannot be blank","service":"calculator-service"}
 {"level":"info","message":"Parameters 1 and 3 received for addition","service":"calculator-service"}
-{"level":"info","message":"Parameters 2 and 2 received for addition","service":"calculator-service"}
-{"level":"info","message":"Parameters 2 and 6 received for addition","service":"calculator-service"}
-{"level":"info","message":"Parameters 2 and NaN received for addition","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"info","message":"Parameters 2 and 2 received for addition","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and 5 received for addition","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and NaN received for addition","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and 6 received for addition","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and 2 received for subtraction","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and 2 received for subtraction","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and 2 received for multiplication","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and 2 received for division","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and 2 received for division","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and 2 received for division","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and NaN received for division","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and NaN received for division","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and 0 received for division","service":"calculator-service"}
+{"level":"info","message":"Parameters 47 and 7 received for subtraction","service":"calculator-service"}
+{"level":"info","message":"Parameters 45 and 7 received for subtraction","service":"calculator-service"}
+{"level":"info","message":"Parameters 5 and 3 received for multiplication","service":"calculator-service"}
+{"level":"info","message":"Parameters 30 and 8 received for division","service":"calculator-service"}
+{"level":"info","message":"Parameter 3 received for squaring","service":"calculator-service"}
+{"level":"info","message":"Parameter 35 received for rooting","service":"calculator-service"}
+{"level":"info","message":"Parameter 36 received for rooting","service":"calculator-service"}
+{"level":"info","message":"Parameters 30 and 0 received for division","service":"calculator-service"}
 {"level":"error","message":"n2 cannot be 0","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and 0 received for division","service":"calculator-service"}
-{"level":"error","message":"n2 cannot be 0","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and 0 received for division","service":"calculator-service"}
-{"level":"error","message":"n2 cannot be 0","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and 0 received for division","service":"calculator-service"}
-{"level":"error","message":"n2 cannot be 0","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and 0 received for division","service":"calculator-service"}
-{"level":"error","message":"n2 cannot be 0","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and 0 received for division","service":"calculator-service"}
-{"level":"error","message":"n2 cannot be 0","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and NaN received for addition","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and NaN received for addition","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and NaN received for addition","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and NaN received for addition","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and 1 received for addition","service":"calculator-service"}
-{"level":"info","message":"Parameters 5 and NaN received for addition","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
+{"level":"info","message":"Parameters wrong and 4 received for division","service":"calculator-service"}
+{"level":"error","message":"n1 is needs to be a number","service":"calculator-service"}
+{"level":"info","message":"Parameters 30 and wrong received for division","service":"calculator-service"}
+{"level":"error","message":"n2 is needs to be a number","service":"calculator-service"}
+{"level":"info","message":"Parameters 30 and \"4\" received for division","service":"calculator-service"}
+{"level":"error","message":"n2 is needs to be a number","service":"calculator-service"}
+{"level":"info","message":"Parameter -6 received for rooting","service":"calculator-service"}
+{"level":"error","message":"n2 cannot be negative","service":"calculator-service"}
+{"level":"info","message":"Parameter -40 received for rooting","service":"calculator-service"}
+{"level":"error","message":"n2 cannot be negative","service":"calculator-service"}
+{"level":"info","message":"Parameters 20 and -6 received for division","service":"calculator-service"}
+{"level":"info","message":"Parameters 20 and undefined received for division","service":"calculator-service"}
+{"level":"error","message":"n2 cannot be blank","service":"calculator-service"}
+{"level":"info","message":"Parameters 20 and 3 received for addition","service":"calculator-service"}
 {"level":"info","message":"Parameters 1 and 3 received for addition","service":"calculator-service"}

@@ -1,22 +1,8 @@
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
+{"level":"error","message":"n2 cannot be blank","service":"calculator-service"}
 {"level":"error","message":"n2 cannot be 0","service":"calculator-service"}
-{"level":"error","message":"n2 cannot be 0","service":"calculator-service"}
-{"level":"error","message":"n2 cannot be 0","service":"calculator-service"}
-{"level":"error","message":"n2 cannot be 0","service":"calculator-service"}
-{"level":"error","message":"n2 cannot be 0","service":"calculator-service"}
-{"level":"error","message":"n2 cannot be 0","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
-{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
+{"level":"error","message":"n1 is needs to be a number","service":"calculator-service"}
+{"level":"error","message":"n2 is needs to be a number","service":"calculator-service"}
+{"level":"error","message":"n2 is needs to be a number","service":"calculator-service"}
+{"level":"error","message":"n2 cannot be negative","service":"calculator-service"}
+{"level":"error","message":"n2 cannot be negative","service":"calculator-service"}
+{"level":"error","message":"n2 cannot be blank","service":"calculator-service"}
