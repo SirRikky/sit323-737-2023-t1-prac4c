@@ -6,3 +6,4 @@
 {"level":"error","message":"n2 cannot be negative","service":"calculator-service"}
 {"level":"error","message":"n2 cannot be negative","service":"calculator-service"}
 {"level":"error","message":"n2 cannot be blank","service":"calculator-service"}
+{"level":"error","message":"no user found","service":"calculator-service"}

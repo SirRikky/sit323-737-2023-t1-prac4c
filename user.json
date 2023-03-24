@@ -2,6 +2,12 @@
     "users": [
         {
             "id" : 1, "username": "Rikky", "password": "test"
+        },
+        {
+            "id" : 2, "username": "Valeh", "password": "admin"
+        },
+        {
+            "id" : 3, "username": "Faisal", "password": "password"
         }
     ]
 }
