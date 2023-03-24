@@ -5,10 +5,8 @@ const winston = require("winston")
 const port = 3040;
 
 const bodyParser = require('body-parser');
-const passport = require('passport');
 const jwt = require('jsonwebtoken');
-const JwtStrategy = require('passport-jwt').Strategy;
-const ExtractJwt = require('passport-jwt').ExtractJwt;
+const passport = require('./passport');
 const { findUserByUsername } = require('./user-service');
 
 // Validation
@@ -98,21 +96,6 @@ if (process.env.NODE_ENV !== 'production') {
 // Authentication
 
 app.use(passport.initialize());
-
-const jwtOptions = {
-    jwtFromRequest: ExtractJwt.fromAuthHeaderAsBearerToken(),
-    secretOrKey: 'secret'
-};
-
-// Authenticates user
-passport.use(new JwtStrategy(jwtOptions, (jwt_payload, done) => {
-    const user = findUserByUsername(jwt_payload.username);
-    if (user) {
-        return done(null, user);
-    } else {
-        return done(null, false, { message: 'User not found' });
-    }
-}));
 
 // Calculator endpoints
 
